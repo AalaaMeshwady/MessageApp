@@ -1,0 +1,12 @@
+D:\DEBI .NET\C#\Assignments\MessageApp\MessageApp\bin\Debug\MessageApp.exe.config
+D:\DEBI .NET\C#\Assignments\MessageApp\MessageApp\bin\Debug\MessageApp.exe
+D:\DEBI .NET\C#\Assignments\MessageApp\MessageApp\bin\Debug\MessageApp.pdb
+D:\DEBI .NET\C#\Assignments\MessageApp\MessageApp\obj\Debug\MessageApp.csproj.AssemblyReference.cache
+D:\DEBI .NET\C#\Assignments\MessageApp\MessageApp\obj\Debug\MessageApp.FrmLogin.resources
+D:\DEBI .NET\C#\Assignments\MessageApp\MessageApp\obj\Debug\MessageApp.Properties.Resources.resources
+D:\DEBI .NET\C#\Assignments\MessageApp\MessageApp\obj\Debug\MessageApp.csproj.GenerateResource.cache
+D:\DEBI .NET\C#\Assignments\MessageApp\MessageApp\obj\Debug\MessageApp.csproj.CoreCompileInputs.cache
+D:\DEBI .NET\C#\Assignments\MessageApp\MessageApp\obj\Debug\MessageApp.exe
+D:\DEBI .NET\C#\Assignments\MessageApp\MessageApp\obj\Debug\MessageApp.pdb
+D:\DEBI .NET\C#\Assignments\MessageApp\MessageApp\obj\Debug\MessageApp.FrmNewUser.resources
+D:\DEBI .NET\C#\Assignments\MessageApp\MessageApp\obj\Debug\MessageApp.FrmMain.resources
